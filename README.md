@@ -1,7 +1,5 @@
 <h1 align="center" id="title">Terabox Downloader Bot</h1>
 
-<p align="center"><img src="https://socialify.git.ci/r0ld3x/terabox-downloader-bot/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="project-image"></p>
-
 <p id="description">A telegram bot for downloading terabox videos fastly</p>
 
 <h2>🧐 Features</h2>
@@ -48,12 +46,6 @@ ADMINS = [1317173146]
 
 ```
 
-### Get terabox cookie:
-
-1. Login in terabox with premium account
-2. Open any terabox link and watch the video below
-
-https://github.com/r0ld3x/terabox-downloader-bot/assets/77254818/1b68e6ae-715f-4778-845e-4b696762ea93
 
 <p>6. start the bot</p>
 
