@@ -1,0 +1,14 @@
+API_ID = 123456  # api id
+API_HASH = "ed44780dedd182084f2133b16944cf565"  # api hash
+
+BOT_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # bot token
+
+
+## REDIS
+HOST = "localhost"  # redis host uri
+PORT = 6379  # redis port
+PASSWORD = ""  # redis password
+
+PRIVATE_CHAT_ID = -1001234567890  # CHAT WHERE YOU WANT TO STORE VIDEOS
+COOKIE = "csrfToken=QrySYAukIkHwn35xsf8p4WdT; browserid=KegUIRO56wI1RVopJZzkkrCIEVAeGp1KH44aeh4lYbD7I6MSyeLHr83bx4U=; lang=en; TSID=kwiUFZymxbzr0DZBpU5UkkAHiyAVfuem; ndut_fmt=D908FE7CB7EC72997B880BC8036DEFAC0078A36F6936CD7BF21F543ED3D4B200; __bid_n=18f49aaa096a5ace3a4207; _ga=GA1.1.1025080716.1715081287; ab_sr=1.0.1_ZmIyYThiOGQwMjgxYTIxZmVlYmNmOTQ5MmY4OTVhYzNlZWJmN2ZkMjJiOTQ4ZjUwOGVlMzkwZmU1ZTEwMmRiMjljZjNlZGRhZTM1YjMzMTA0YjIyOGRiOGE5NDJjZWFkZWNhNGU5NTA5YzBlNjJlMjY1NjUyOGM2MGIwY2QyNzRhZWE1ZTQyYTg4YWE5NjU5Zjg4NGRlYjA2ZTc3NWNlZA==; g_state={'i_l':0}; ndus=YfXBdeyteHuiGW3xXirYYT58XJSIUf_IVpQNynfE; _ga_06ZNKL8C2E=GS1.1.1715081286.1.0.1715081301.45.0.0"  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
+ADMINS = [1317173146]
